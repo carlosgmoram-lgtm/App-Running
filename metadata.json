@@ -1,0 +1,5 @@
+{
+  "name": "RunAI - Entrenador Inteligente",
+  "description": "Generador de planes de entrenamiento de running personalizados con seguimiento y ajustes dinámicos impulsados por IA.",
+  "requestFramePermissions": []
+}
